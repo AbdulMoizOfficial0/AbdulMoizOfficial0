@@ -4,7 +4,7 @@
 
 <img align="right" alt="Coding" width="450" src="https://assets-global.website-files.com/5c19100c2b50073e6ee69da1/60d35967a853a1b14851703b_All%20the%20data%20(1).gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?AbdulMoizOfficial0=abdulmoizofficial0&abbreviated=true&style=flat-square&color=green" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=AbdulMoizOfficial0-ds&label=Profile%20views&color=green&style=flat%22%20alt=%22AbdulMoizOfficial0" /> </p>
 
 <p align="left"> <a href="https://twitter.com/abduldotmoiz121" target="blank"><img src="https://img.shields.io/twitter/follow/abduldotmoiz121?logo=twitter&style=for-the-badge" alt="abduldotmoiz121" /></a> </p>
 
