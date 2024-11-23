@@ -12,7 +12,7 @@
 
 - 👯 I’m looking to collaborate on **any project**
 
-- 💬 Ask me about **OOP, C#, .Net, SQL, AWS, Power BI.**
+- 💬 Ask me about **OOP, C#, .Net, Python, SQL, AWS, Power BI.**
 
 - 📫 How to reach me **abdulmoizofficial0@gmail.com**
 
